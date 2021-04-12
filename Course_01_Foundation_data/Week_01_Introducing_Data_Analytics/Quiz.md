@@ -1,4 +1,4 @@
-### Video: Introduction to the course
+### Quiz: Introduction to the course
 
 Data is a collection of _____ that can be used to draw conclusions, make predictions, and assist in decision-making. 
 

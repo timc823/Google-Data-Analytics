@@ -1,5 +1,7 @@
 ## Glossary
 
+&nbsp;
+
 * **Data**: A collection of facts
 * **Data analysis**: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 * **Data analyst**: Someone who collects, transforms, and organizes data in order to help make informed decisions

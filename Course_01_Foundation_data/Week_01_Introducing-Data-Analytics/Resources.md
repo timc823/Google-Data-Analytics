@@ -1,5 +1,6 @@
 ## Resources
 
+&nbsp;
 
 * [3 Examples of Business Analytics in Action](https://online.hbs.edu/blog/post/business-analytics-examples)
 * [The Genesis of EMC's Data Analytics LIfecycle](https://infocus.delltechnologies.com/david_dietrich/the-genesis-of-emcs-data-analytics-lifecycle/)

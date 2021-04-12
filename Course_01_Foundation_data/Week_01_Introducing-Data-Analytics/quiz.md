@@ -7,9 +7,7 @@ Data is a collection of _____ that can be used to draw conclusions, make predict
 * **facts**
 * thoughts
 
-> Data is a collection of facts that can be used to draw conclusions, make predictions, and assist in decision-making. 
-
-&nbsp;
+> Data is a collection of facts that can be used to draw conclusions, make predictions, and assist in decision-making.
 
 ### Video: What is the data ecosystem? 
 
@@ -20,9 +18,7 @@ In data analytics, what is the term for elements that interact with one another 
 * Data storage systems
 * **Data ecosystems**
 
-> Elements that interact with one another in order to produce, manage, store, organize, analyze, and share data are data ecosystems. These elements include hardware and software tools, as well as the people who use them. 
-
-&nbsp;
+> Elements that interact with one another in order to produce, manage, store, organize, analyze, and share data are data ecosystems. These elements include hardware and software tools, as well as the people who use them.
 
 ### Video: How data informs better decisions
 

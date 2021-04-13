@@ -13,7 +13,7 @@ Fill in the blank: Curiosity, understanding context, and having a technical mind
 
 > Curiosity, understanding context, and having a technical mindset are all examples of analytical skills used to make data-driven decisions.
 
-
+&nbsp;
 
 ### Question 2
 
@@ -24,7 +24,7 @@ Surveying customers about their preferences and using that information to inform
 
 > Surveying customers about their preferences and using that information to inform business strategy is an example of data-driven decision-making.
 
-
+&nbsp;
 
 ### Question 3
 

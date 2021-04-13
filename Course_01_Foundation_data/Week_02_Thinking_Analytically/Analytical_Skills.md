@@ -14,7 +14,7 @@ Identify the pattern from left to right in the set of blocks below and try to pr
 
 > This is the missing block. The pattern of the dots increases by one in each block. Therefore, the best answer has five dots.
 
-
+&nbsp;
 
 ### Question 2
 
@@ -31,7 +31,7 @@ Based on the images above, which option comes next in the pattern?
 
 > This is the next image in the sequence based on two patterns present in the series: the number of sides and the number of dots. Moving from left to right, both decrease by one. Given these patterns, if the previous block contained a shape with four sides and three dots, then the next shape should have three sides and two dots. 
 
-
+&nbsp;
 
 ### Question 3
 
@@ -46,7 +46,7 @@ Now, find a pattern in a different format. Select the next number in the sequenc
 
 > The correct answer is 33. The pattern of numbers are all increasing, and the difference between each number is 4.
 
-
+&nbsp;
 
 ### Question 4
 
@@ -61,7 +61,7 @@ The following numbers are in a sequence from left to right. Determine the patter
 
 > The next number in the series is 64. There are two patterns in the sequence. One is that each number is squared and then the number being squared is increased by one (e.g., 2², 3², 4², 5², 6², 7²). The second pattern is in the difference between the numbers in the sequence: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9, and so on.
 
-
+&nbsp;
 
 ### Question 5
 
@@ -85,7 +85,7 @@ Select the image below that completes the statement.
 
 > This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image. 
 
-
+&nbsp;
 
 ### Question 6
 
@@ -103,7 +103,7 @@ Which image completes it?
 
 > Since the pattern in the first image was rotated 90 degrees counter-clockwise, this image completes the statement.
 
-
+&nbsp;
 
 ### Question 7
 
@@ -118,7 +118,7 @@ The following series of codes are in a sequence from left to right. There is a r
 
 > The patterns of this series are the letters listed alphabetically and the numbers increasing by two with each new set. Therefore, following that pattern, the next code would be H15.
 
-
+&nbsp;
 
 ### Question 8
 
@@ -133,7 +133,7 @@ The following series of codes are in a sequence from left to right. There is a r
 
 > The pattern in this sequence follows the letter A. A is added until there are three As, which is when the letter B takes the place of the previous As, and the pattern continues. Therefore, BBBA is next in the series.
 
-
+&nbsp;
 
 ### Question 9
 
@@ -145,7 +145,7 @@ Now, identify patterns in a word problem using a data visualization. There are 1
 
 > This diagram depicts six chocolates with caramel filling only, four chocolates with coconut filling only, two chocolates with both caramel and coconut filling, and the total number of chocolates is 12.
 
-
+&nbsp;
 
 ### Question 10
 

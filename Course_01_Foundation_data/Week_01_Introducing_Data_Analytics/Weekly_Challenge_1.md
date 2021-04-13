@@ -15,6 +15,8 @@ Which of the following options describes data analysis?
 
 > Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
+&nbsp;
+
 ### Question 2
 
 A business collects and analyzes information about its employees in order to gain insights that unlock potential and create a more productive workplace. What practice does this describe?
@@ -26,6 +28,8 @@ A business collects and analyzes information about its employees in order to gai
 
 > People analytics — also known as human resources or workforce analytics — involves collecting and analyzing information on a company’s employees in order to gain insights that unlock potential and create a more productive workplace.
 
+&nbsp;
+
 ### Question 3
 
 In data analytics, a model is a group of elements that interact with one another.
@@ -34,6 +38,8 @@ In data analytics, a model is a group of elements that interact with one another
 - **False**
 
 > In data analytics, a data ecosystem is a group of elements that interact with one another.
+
+&nbsp;
 
 ### Question 4
 
@@ -46,6 +52,8 @@ What tactics can a data analyst use to effectively blend gut instinct with facts
 
 > At the heart of data-driven decision-making is data, so analysts are most effective when they ensure that facts are driving strategy.
 
+&nbsp;
+
 ### Question 5
 
 A company defines a problem it wants to solve. Then, a data analyst gathers relevant data, analyzes it, and uses it to draw conclusions. The analyst shares their analysis with subject-matter experts, who validate the findings. Finally, a plan is put into action. What does this scenario describe?
@@ -56,6 +64,8 @@ A company defines a problem it wants to solve. Then, a data analyst gathers rele
 - Data science
 
 > This company has put data at the heart of its business strategy in order to achieve data-driven decision-making.
+
+&nbsp;
 
 ### Question 6
 
@@ -68,6 +78,8 @@ Fill in the blank: The people very familiar with a business problem are called *
 
 > Subject-matter experts are very familiar with the business problem and can look at the results of data analysis to validate the choices being made.
 
+&nbsp;
+
 ### Question 7
 
 After completing their analysis, data analysts often share their results with subject-matter experts. These people offer additional insights into the business problem, identify any inconsistencies in the analysis, and validate the choices being made.
@@ -76,6 +88,8 @@ After completing their analysis, data analysts often share their results with su
 - False
 
 > After completing their analysis, data analysts often share their results with subject-matter experts. These people offer additional insights into the business problem, identify any inconsistencies in the analysis, and validate the choices being made. Collaborating with subject-matter experts is an important part of data-driven decision-making.
+
+&nbsp;
 
 ### Question 8
 
@@ -88,6 +102,8 @@ You have recently subscribed to an online data analytics magazine. You really en
 
 > Sharing informative articles is an appropriate use of the forum as long as you give credit to the original author. Also, posts should be relevant to data analytics and checked for typos and grammatical errors.
 
+&nbsp;
+
 ### Question 9
 
 People analytics is used to create a more productive workplace. It involves collecting and analyzing information about what?
@@ -98,6 +114,8 @@ People analytics is used to create a more productive workplace. It involves coll
 - Customers
 
 > People analytics — also known as human resources or workforce analytics — involves collecting and analyzing information on a company’s employees in order to gain insights that unlock potential and create a more productive workplace.
+
+&nbsp;
 
 ### Question 10
 
@@ -110,6 +128,8 @@ Fill in the blank: Data ecosystems are made up of elements that **\_** with each
 
 > Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
 
+&nbsp;
+
 ### Question 11
 
 What tactics can a data analyst use to effectively blend gut instinct with facts? Select all that apply.
@@ -120,6 +140,8 @@ What tactics can a data analyst use to effectively blend gut instinct with facts
 - Use their knowledge of how their company works to better understand a business need.
   > At the heart of data-driven decision-making is data, so analysts are most effective when they ensure that facts are driving strategy.
 
+&nbsp;
+
 ### Question 12
 
 Data analysis is the various elements that interact with one another in order to provide, manage, store, organize, analyze, and share data.
@@ -128,6 +150,8 @@ Data analysis is the various elements that interact with one another in order to
 - **False**
 
 > Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+&nbsp;
 
 ### Question 13
 

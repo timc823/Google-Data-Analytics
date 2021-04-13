@@ -1,5 +1,7 @@
 ## Glossary
+
 &nbsp;
+
 * **Analytical skills**: Qualities and characteristics associated with solving problems using facts.
 * **Analytical thinking**: ​Identifying and defining a problem and then solving it by using data in an organized, step-by-step manner.
 * **Context**: ​The condition in which something exists or happens.

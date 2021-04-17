@@ -1,16 +1,17 @@
 ## Weekly challenge 2
+
 Latest Submission Grade: 100%
 
 &nbsp;
 
 ### Question 1
 
-Fill in the blank: Analytical skills are defined as _____. 
+Fill in the blank: Analytical skills are defined as **\_**.
 
-* **qualities and characteristics associated with solving problems using facts**
-* an analyst's intuition, inner voice, or gut instinct
-* the management of people, processes, and tools 
-* the ability to break things down into smaller steps
+- **qualities and characteristics associated with solving problems using facts**
+- an analyst's intuition, inner voice, or gut instinct
+- the management of people, processes, and tools
+- the ability to break things down into smaller steps
 
 > Analytical skills are qualities and characteristics associated with solving problems using facts.
 
@@ -18,16 +19,14 @@ Fill in the blank: Analytical skills are defined as _____.
 
 ### Question 2
 
-Curiosity is an analytical skill that involves which of the following? 
+Curiosity is an analytical skill that involves which of the following?
 
+- Working with facts in an orderly manner
+- Collaborating to solve a problem
+- Using your gut instinctUsing your gut instinct
+- **Seeking out new challenges and experiences**
 
-* Working with facts in an orderly manner
-* Collaborating to solve a problem 
-* Using your gut instinctUsing your gut instinct
-* **Seeking out new challenges and experiences**
-
-
-> Curious people usually seek out new challenges and experiences which leads to knowledge. 
+> Curious people usually seek out new challenges and experiences which leads to knowledge.
 
 &nbsp;
 
@@ -35,10 +34,10 @@ Curiosity is an analytical skill that involves which of the following?
 
 Adding descriptive headers to columns of data in a spreadsheet is an example of which analytical skill?
 
-* **Understanding context**
-* Curiosity
-* Big-picture thinking
-* Data strategy
+- **Understanding context**
+- Curiosity
+- Big-picture thinking
+- Data strategy
 
 > Context is the condition in which something exists, such as a structure. Labeling the top row in a spreadsheet column provides context about the data below.
 
@@ -46,12 +45,12 @@ Adding descriptive headers to columns of data in a spreadsheet is an example of 
 
 ### Question 4
 
-Fill in the blank: _____ involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+Fill in the blank: **\_** involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 
-* **A technical mindset**
-* Curiosity 
-* Context
-* Data strategy
+- **A technical mindset**
+- Curiosity
+- Context
+- Data strategy
 
 > Having a technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 
@@ -59,24 +58,24 @@ Fill in the blank: _____ involves the ability to break things down into smaller 
 
 ### Question 5
 
-Data design is how you organize information; data strategy is the management of the people, processes, and tools used in data analysis. 
+Data design is how you organize information; data strategy is the management of the people, processes, and tools used in data analysis.
 
-* **True**
-* False
+- **True**
+- False
 
-> Data design is how you organize information; data strategy is the management of the people, processes, and tools used in data analysis. 
+> Data design is how you organize information; data strategy is the management of the people, processes, and tools used in data analysis.
 
 &nbsp;
 
 ### Question 6
 
 Question 6
-Fill in the blank: Being able to identify a relationship between two or more pieces of data describes _____.
+Fill in the blank: Being able to identify a relationship between two or more pieces of data describes **\_**.
 
-* visualization 
-* problem-orientation
-* detail-oriented thinking
-* correlation
+- visualization
+- problem-orientation
+- detail-oriented thinking
+- correlation
 
 > Fill in the blank: Being able to identify a relationship between two or more pieces of data describes correlation.
 
@@ -86,10 +85,10 @@ Fill in the blank: Being able to identify a relationship between two or more pie
 
 When executing a plan, a data analyst always double-checks their work, reads emails twice before sending them, and makes sure instructions are clear and correct the first time. They save their company time, money, and effort by paying attention to the specifics. This is an example of what?
 
-* Context
-* Strategy
-* Problem-solving 
-* **Detail-oriented thinking**
+- Context
+- Strategy
+- Problem-solving
+- **Detail-oriented thinking**
 
 > Detail-oriented thinking is about all of the specifics that will help you execute a plan.
 
@@ -99,10 +98,10 @@ When executing a plan, a data analyst always double-checks their work, reads ema
 
 What method involves asking numerous questions in order to get to the root cause of a problem?
 
-* Strategizing
-* Inquiry
-* **The five whys**
-* Curiosity
+- Strategizing
+- Inquiry
+- **The five whys**
+- Curiosity
 
 > The five whys involves asking numerous questions in order to get to the root cause of a problem?
 
@@ -112,10 +111,10 @@ What method involves asking numerous questions in order to get to the root cause
 
 What method involves examining and evaluating how a process works currently in order to get it where you want it to be in the future?
 
-* **Gap analysis** 
-* The five whys
-* Strategy
-* Data visualization
+- **Gap analysis**
+- The five whys
+- Strategy
+- Data visualization
 
 > Gap analysis is a method for examining and evaluating how a process works currently in order to get where you want to be in the future.
 
@@ -123,11 +122,11 @@ What method involves examining and evaluating how a process works currently in o
 
 ### Question 10
 
-Fill in the blank: Data analysts use the five analytical skills of curiosity, understanding context, having a technical mindset, data design, and data strategy to make _____ decisions.
+Fill in the blank: Data analysts use the five analytical skills of curiosity, understanding context, having a technical mindset, data design, and data strategy to make **\_** decisions.
 
-* forward-looking
-* intuitive
-* **data-driven**
-* more efficient
+- forward-looking
+- intuitive
+- **data-driven**
+- more efficient
 
->Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.
+> Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.

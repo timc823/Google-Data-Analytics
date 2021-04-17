@@ -7,9 +7,9 @@
 Dashboards are powerful visual tools that help you tell your data story. A dashboard organizes information from multiple datasets into one central location, offering huge time-savings. Data analysts use dashboards to track, analyze, and visualize data in order to answer questions and solve problems. The following table summarizes the benefits of using a dashboard for both data analysts and their stakeholders.
 
 | **Benefits**       | **For Data Analysts**                                                                      | **For Stakeholders**                                                                              |
-|--------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | **Centralization** | Sharing a single source of data with all stakeholders                                      | Working with a comprehensive view of data, initiatives, objectives, projects, processes, and more |
-| **Visualization**  | Showing and updating live, incoming data in real time*                                     | Spotting changing trends and patterns more quickly                                                |
+| **Visualization**  | Showing and updating live, incoming data in real time\*                                    | Spotting changing trends and patterns more quickly                                                |
 | **Insightfulness** | Pulling relevant information from different datasets                                       | Understanding the story behind the numbers to keep track of goals and make data-driven decisions  |
 | **Customization**  | Creating custom views dedicated to a specific person, project, or presentation of the data | Drilling down to more specific areas of specialized interest or concern                           |
 

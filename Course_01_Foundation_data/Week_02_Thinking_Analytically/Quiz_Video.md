@@ -1,46 +1,46 @@
 ### Quiz: Key data analyst skills
 
-Thinking about the way you organize your contacts in a new phone is an example of which analytical skill? 
+Thinking about the way you organize your contacts in a new phone is an example of which analytical skill?
 
-* **Data design**
-* Data strategy
-* Curiosity
-* Understanding context
+- **Data design**
+- Data strategy
+- Curiosity
+- Understanding context
 
-> This is an example of data design, which involves how information is organized. 
+> This is an example of data design, which involves how information is organized.
 
 &nbsp;
 
 You are planning a road trip. Your first step is to break down the planning into smaller pieces. You begin by calculating your budget. Then, you choose a destination and departure date. Next, you plan where to stay, what vehicle to take, and how long you want to be on the road. Which analytical skill does scenario describe?
 
-* Data design
-* **Having a technical mindset**
-* Understanding context
-* Curiosity
+- Data design
+- **Having a technical mindset**
+- Understanding context
+- Curiosity
 
 > This scenario describes having a technical mindset. A technical mindset is the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 
 &nbsp;
 
-### Video: All about thinking analytically 
+### Video: All about thinking analytically
 
-Fill in the blank: Data visualization involves using _____ to represent and present data. Select all that apply.
+Fill in the blank: Data visualization involves using **\_** to represent and present data. Select all that apply.
 
-* **maps**
-* icons
-* **graphs**
-* **charts**
+- **maps**
+- icons
+- **graphs**
+- **charts**
 
-> Data visualization involves using graphs, maps, and charts to represent and present data. 
+> Data visualization involves using graphs, maps, and charts to represent and present data.
 
 &nbsp;
 
 To execute a plan using detail-oriented thinking, what does a data analyst consider?
 
-* The big picture
-* The main idea
-* **The specifics**
-* The root cause
+- The big picture
+- The main idea
+- **The specifics**
+- The root cause
 
 > To execute a plan using detail-oriented thinking, a data analyst considers the specifics.
 
@@ -50,7 +50,7 @@ To execute a plan using detail-oriented thinking, what does a data analyst consi
 
 Root-cause analysis is a method for examining and evaluating how a process works currently in order to get it where you want it to be in the future.
 
-* True
-* **False**
+- True
+- **False**
 
-> This describes gap analysis. A root cause is the reason why a problem occurs. 
+> This describes gap analysis. A root cause is the reason why a problem occurs.

@@ -23,13 +23,13 @@ A series of different boxes containing shapes and patterns with the last box con
 
 ![img](img/l2-02.png)
 
-Based on the images above, which option comes next in the pattern? 
+Based on the images above, which option comes next in the pattern?
 
 **Answer:**
 
 ![img](img/l2-02-ans.png)
 
-> This is the next image in the sequence based on two patterns present in the series: the number of sides and the number of dots. Moving from left to right, both decrease by one. Given these patterns, if the previous block contained a shape with four sides and three dots, then the next shape should have three sides and two dots. 
+> This is the next image in the sequence based on two patterns present in the series: the number of sides and the number of dots. Moving from left to right, both decrease by one. Given these patterns, if the previous block contained a shape with four sides and three dots, then the next shape should have three sides and two dots.
 
 &nbsp;
 
@@ -37,12 +37,12 @@ Based on the images above, which option comes next in the pattern?
 
 Now, find a pattern in a different format. Select the next number in the sequence:
 
-**Fill in the blank: 9, 13, 17, 21, 25, 29, _____**
+**Fill in the blank: 9, 13, 17, 21, 25, 29, **\_****
 
-* 10
-* 55
-* **33**
-* 25
+- 10
+- 55
+- **33**
+- 25
 
 > The correct answer is 33. The pattern of numbers are all increasing, and the difference between each number is 4.
 
@@ -52,12 +52,12 @@ Now, find a pattern in a different format. Select the next number in the sequenc
 
 The following numbers are in a sequence from left to right. Determine the pattern and decide which number should come next:
 
-**Fill in the blank: 4, 9, 16, 25, 36, 49, _____**
+**Fill in the blank: 4, 9, 16, 25, 36, 49, **\_****
 
-* 81
-* 62
-* 30
-* **64**
+- 81
+- 62
+- 30
+- **64**
 
 > The next number in the series is 64. There are two patterns in the sequence. One is that each number is squared and then the number being squared is increased by one (e.g., 2², 3², 4², 5², 6², 7²). The second pattern is in the difference between the numbers in the sequence: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9, and so on.
 
@@ -65,7 +65,7 @@ The following numbers are in a sequence from left to right. Determine the patter
 
 ### Question 5
 
-The following question is about recognizing and matching patterns in shapes that are the same, but viewed from different angles. 
+The following question is about recognizing and matching patterns in shapes that are the same, but viewed from different angles.
 
 Two shapes are similar when one can become the other after a rotation clockwise ⟳ or counterclockwise ↺, or a reflection horizontally ↔ and/or vertically ↕.
 Top right, bottom left is to top left, bottom right
@@ -83,7 +83,7 @@ Select the image below that completes the statement.
 
 ![img](img/l2-05-ans.png)
 
-> This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image. 
+> This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image.
 
 &nbsp;
 
@@ -107,14 +107,14 @@ Which image completes it?
 
 ### Question 7
 
-The following series of codes are in a sequence from left to right. There is a repeating pattern that you will notice. Determine the pattern and decide which code should come next. 
+The following series of codes are in a sequence from left to right. There is a repeating pattern that you will notice. Determine the pattern and decide which code should come next.
 
-**Fill in the blank: A1, B3, C5, D7, E9, F11, G13, _____**
+**Fill in the blank: A1, B3, C5, D7, E9, F11, G13, **\_****
 
-* J15
-* H16
-* D17
-* **H15**
+- J15
+- H16
+- D17
+- **H15**
 
 > The patterns of this series are the letters listed alphabetically and the numbers increasing by two with each new set. Therefore, following that pattern, the next code would be H15.
 
@@ -124,12 +124,12 @@ The following series of codes are in a sequence from left to right. There is a r
 
 The following series of codes are in a sequence from left to right. There is a repeating pattern that you will notice. Determine the pattern and decide which sequence of letters should come next.
 
-**Fill in the blank: A, AA, AAA, B, BA, BAA, BAAA, BB, BBA, BBAA, BBAAA, BBB, ________**
+**Fill in the blank: A, AA, AAA, B, BA, BAA, BAAA, BB, BBA, BBAA, BBAAA, BBB, **\_\_\_\_****
 
-* **BBBA**
-* BBBB
-* BBAA
-* BBAAA
+- **BBBA**
+- BBBB
+- BBAA
+- BBAAA
 
 > The pattern in this sequence follows the letter A. A is added until there are three As, which is when the letter B takes the place of the previous As, and the pattern continues. Therefore, BBBA is next in the series.
 
@@ -137,7 +137,7 @@ The following series of codes are in a sequence from left to right. There is a r
 
 ### Question 9
 
-Now, identify patterns in a word problem using a data visualization. There are 12 chocolates in a box: eight have caramel filling, six have coconut filling, and two have both caramel and coconut filling. Choose the best image that describes this box of chocolates. 
+Now, identify patterns in a word problem using a data visualization. There are 12 chocolates in a box: eight have caramel filling, six have coconut filling, and two have both caramel and coconut filling. Choose the best image that describes this box of chocolates.
 
 **Answer:**
 
@@ -149,7 +149,7 @@ Now, identify patterns in a word problem using a data visualization. There are 1
 
 ### Question 10
 
-There are 10 children in a class and they have all brought sandwiches for lunch: five children have sandwiches with peanut butter, six children have sandwiches with jelly, and three children have sandwiches with **both** peanut butter **and** jelly. 
+There are 10 children in a class and they have all brought sandwiches for lunch: five children have sandwiches with peanut butter, six children have sandwiches with jelly, and three children have sandwiches with **both** peanut butter **and** jelly.
 
 Find out how many children have sandwiches with **neither** peanut butter **nor** jelly and choose the image that describes the situation best.
 

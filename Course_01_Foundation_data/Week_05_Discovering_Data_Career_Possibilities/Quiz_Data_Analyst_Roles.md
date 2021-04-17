@@ -3,7 +3,7 @@
 &nbsp;
 
 | Industry data example                                                                               | Industry    |
-|-----------------------------------------------------------------------------------------------------|-------------|
+| --------------------------------------------------------------------------------------------------- | ----------- |
 | Use geographic data to power GPS technology in cars                                                 | Technology  |
 | Use demographic data to target advertisements for a new consumer product for youths                 | Marketing   |
 | Use stock market data to determine which portfolios to invest in                                    | Finance     |

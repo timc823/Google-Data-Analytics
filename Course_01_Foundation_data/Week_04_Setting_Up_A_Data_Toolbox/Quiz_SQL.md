@@ -8,12 +8,12 @@
 SELECT * FROM employee WHERE jobCode = 'FTE' AND LastName = 'James'
 ```
 
-What does the asterisk (*) after SELECT tell the database to do in this query?
+What does the asterisk (\*) after SELECT tell the database to do in this query?
 
-* Select, then delete data.
-* Select and filter data.
-* Select and multiply data.
-* **Select all data.**
+- Select, then delete data.
+- Select and filter data.
+- Select and multiply data.
+- **Select all data.**
 
 > The asterisk tells the database to select all data in the table.
 
@@ -25,12 +25,12 @@ What does the asterisk (*) after SELECT tell the database to do in this query?
 SELECT * FROM employee WHERE jobCode = 'FTE' AND LastName = 'James'
 ```
 
-In this query, the data analyst wants to retrieve data from which table? 
+In this query, the data analyst wants to retrieve data from which table?
 
-* LastName
-* **employee**
-* James
-* jobCode
+- LastName
+- **employee**
+- James
+- jobCode
 
 > The data analyst wants to retrieve data from the employee table.
 
@@ -44,8 +44,8 @@ SELECT * FROM employee WHERE jobCode = 'FTE' AND LastName = 'James'
 
 In this query, the data analyst wants to retrieve all data from the employee table, where the jobCode is FTE and the last name is James.
 
-* **True**
-* False
+- **True**
+- False
 
 > This query asks the database to select all data from the employee table, where the jobCode is FTE and the last name is James.
 
@@ -53,7 +53,7 @@ In this query, the data analyst wants to retrieve all data from the employee tab
 
 ### Question 4
 
-You are writing a query and want to instruct the database to retrieve data from the warehouse_inventory table. What is the SQL statement that follows SELECT *? Type your answer below.
+You are writing a query and want to instruct the database to retrieve data from the warehouse_inventory table. What is the SQL statement that follows SELECT \*? Type your answer below.
 
 ```
 FROM warehouse_inventory

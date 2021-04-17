@@ -4,12 +4,12 @@
 
 ### Question 1
 
-Fill in the blank: A data visualization is the _____ representation of information.
+Fill in the blank: A data visualization is the **\_** representation of information.
 
-* contextual
-* tabulated
-* **graphical**
-* attributed 
+- contextual
+- tabulated
+- **graphical**
+- attributed
 
 > A data visualization is the graphical representation of information.
 
@@ -19,8 +19,8 @@ Fill in the blank: A data visualization is the _____ representation of informati
 
 A data analyst uses data visualizations to support their findings.
 
-* **True**
-* False
+- **True**
+- False
 
 > A data analyst uses data visualizations to support their findings. Visualizations make data easier to understand.
 
@@ -30,9 +30,9 @@ A data analyst uses data visualizations to support their findings.
 
 A data analyst is creating a data visualization to share with stakeholders. Which spreadsheet tool do they use to select different chart types?
 
-* **Chart Editor**
-* Chart Maker
-* Chart Picker
-* Chart Chooser
+- **Chart Editor**
+- Chart Maker
+- Chart Picker
+- Chart Chooser
 
 > A data analyst uses the Chart Editor to select different chart types.

@@ -115,8 +115,7 @@ Structured query language (SQL) enables data analysts to communicate with a data
 - **True**
 - False
 
-
->SQL allows a data analyst to communicate with a database in order to retrieve and manipulate data. 10.
+> SQL allows a data analyst to communicate with a database in order to retrieve and manipulate data. 10.
 
 &nbsp;
 
@@ -124,18 +123,15 @@ Structured query language (SQL) enables data analysts to communicate with a data
 
 A data analyst is presenting at a formal stakeholder meeting. They want to help their audience understand the data by using data visualizations. These visualizations will help the data analyst achieve which goals? Select all that apply.
 
-
-- Enable their audience to draw conclusions and make decisions 
+- Enable their audience to draw conclusions and make decisions
 - **Communicate their insights in a compelling way**
 
-
->Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
+> Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
 
 - Find and eliminate any errors that might get in the way of results
 
 - **Help nontechnical people and visual learners understand the data**
 
+> Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
 
->Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
-
-```You didn’t select all the correct answers```
+`You didn’t select all the correct answers`

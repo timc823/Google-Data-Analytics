@@ -45,15 +45,10 @@ For what reasons do data analysts use a problem-oriented approach to data analys
 
 - To create a problem
 - **To identify a problem**
-
-  > Analysts use a problem-oriented approach to data analysis in order to identify, describe, and solve problems.
-
 - **To describe a problem**
-
-  > Analysts use a problem-oriented approach to data analysis in order to identify, describe, and solve problems.
-
 - **To solve a problem**
-  > Analysts use a problem-oriented approach to data analysis in order to identify, describe, and solve problems.
+
+> Analysts use a problem-oriented approach to data analysis in order to identify, describe, and solve problems.
 
 &nbsp;
 
@@ -65,4 +60,5 @@ Which aspect of analytical thinking involves being able to identify a relationsh
 - Visualization
 - Context
 - **Correlation**
-  > Correlation involves being able to identify a relationship between two or more pieces of data. A correlation is like a relationship.
+
+> Correlation involves being able to identify a relationship between two or more pieces of data. A correlation is like a relationship.

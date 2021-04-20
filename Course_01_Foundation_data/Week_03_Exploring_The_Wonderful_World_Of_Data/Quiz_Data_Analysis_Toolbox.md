@@ -11,6 +11,7 @@ A spreadsheet is a digital worksheet that enables data analysts to do which of t
 - **Sort and filter data**
 - Automatically access the latest data in real-time
 
+
 &nbsp;
 
 ### Question 2

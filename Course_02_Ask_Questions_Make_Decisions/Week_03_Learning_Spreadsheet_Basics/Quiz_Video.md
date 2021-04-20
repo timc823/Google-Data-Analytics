@@ -3,7 +3,7 @@
 To perform calculations in a spreadsheet, data analysts use formulas and functions. 
 
 * False
-* True
+* **True**
 
 > To perform calculations in a spreadsheet, data analysts use formulas and functions, such as SUM, AVERAGE, and COUNT.
 

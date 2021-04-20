@@ -62,14 +62,10 @@ What is an example of using a metric? Select all that apply.
 
 - Using column headers to sort and filter data
 - **Using key performance indicators, such as click-through rates, to measure revenue**
-
-  > Using key performance indicators to measure revenue and using annual profit targets to set and evaluate goals are examples of using metrics.
-
 - **Using annual profit targets to set and evaluate goals**
-
-  > Using key performance indicators to measure revenue and using annual profit targets to set and evaluate goals are examples of using metrics.
-
 - Using a pie chart to visualize data
+
+> Using key performance indicators to measure revenue and using annual profit targets to set and evaluate goals are examples of using metrics.
 
 &nbsp;
 

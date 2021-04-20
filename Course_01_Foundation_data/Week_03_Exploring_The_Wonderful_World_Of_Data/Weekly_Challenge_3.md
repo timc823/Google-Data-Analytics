@@ -22,9 +22,6 @@ Fill in the blank: A business decides what kind of data it needs, how the data w
 The destroy phase of the data life cycle might involve which of the following actions? Select all that apply.
 
 - **Shredding paper files**
-
-> The destroy phase of the data life cycle might involve shredding paper files or using data-erasure software.
-
 - Storing data for future use
 - Uploading data to the cloud
 - **Using data-erasure software**
@@ -125,13 +122,8 @@ A data analyst is presenting at a formal stakeholder meeting. They want to help 
 
 - Enable their audience to draw conclusions and make decisions
 - **Communicate their insights in a compelling way**
-
-> Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
-
 - Find and eliminate any errors that might get in the way of results
-
 - **Help nontechnical people and visual learners understand the data**
 
 > Data visualization tools make it possible for data analysts to communicate their insights in a more compelling way. Visualizations help others draw conclusions, make decisions, and better understand the data.
 
-`You didn’t select all the correct answers`

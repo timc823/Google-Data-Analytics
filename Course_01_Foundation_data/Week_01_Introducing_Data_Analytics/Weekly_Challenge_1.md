@@ -157,7 +157,7 @@ Data analysis is the various elements that interact with one another in order to
 
 You have just finished analyzing data for a marketing project. Before moving forward, you share your results with members of the marketing team to see if they might have additional insights into the business problem. What practice does this support?
 
-- Data-driven decision-making
+- **Data-driven decision-making**
 - Data management
 - Data analytics
 - Data science

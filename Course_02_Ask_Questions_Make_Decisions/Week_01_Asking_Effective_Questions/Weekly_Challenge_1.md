@@ -42,7 +42,7 @@ The analyst is in the share phase of the data analysis process.
 A recycling center that sponsors a podcast about saving the environment is an example of what strategy?
 
 - Defining the problem to be solved
-- \*\*Making recommendations
+- Making recommendations
 - **Trying to reach a target audience**
 - Staying on budget
 
@@ -81,11 +81,11 @@ Describe the key difference between the problem types of categorizing things and
 Which of the following examples are vague questions? Select all that apply.
 
 - **What’s the best place to purchase the things we need?**
-  > A vague question is usually out of context and too broad to lead to a useful response.
 - How much time did you spend waiting in line?
 - **Who was the greatest of all time?**
-  > A vague question is usually out of context and too broad to lead to a useful response.
 - Do you generally prefer hot or cold?
+
+> A vague question is usually out of context and too broad to lead to a useful response.
 
 &nbsp;
 
@@ -116,9 +116,7 @@ In the SMART methodology, time-bound questions are simple, significant, and focu
 Which of the following questions make assumptions? Select all that apply.
 
 - **Wouldn’t you agree that product A is better than product B?**
-  > A common example of an unfair question is one that makes assumptions. Unfair questions assume the respondent’s answer to the question.
 - **It must be frustrating waiting on hold for so long, right?**
-  > A common example of an unfair question is one that makes assumptions. Unfair questions assume the respondent’s answer to the question.
 - Did you get through to customer service?
 - **Keeping employees engaged is important, isn’t it?**
-  > A common example of an unfair question is one that makes assumptions. Unfair questions assume the respondent’s answer to the question.
+> A common example of an unfair question is one that makes assumptions. Unfair questions assume the respondent’s answer to the question.

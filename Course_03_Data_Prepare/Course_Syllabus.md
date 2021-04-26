@@ -67,6 +67,8 @@ The Google Data Analytics Certificate provides instruction and feedback for lear
 
 If you believe this course will be primarily a refresher for you, we recommend taking the practice diagnostic quiz offered this week. It will enable you to determine if you should follow the speed track, which is an opportunity to proceed to Course 4 after having taken each of the Course 3 Weekly Challenges and the overall Course Challenge. Learners who earn 100% on the diagnostic quiz can treat Course 3 videos, readings, and activities as optional. Learners following the speed track are still able to earn the certificate.
 
+&nbsp;
+
 ## Tips
 
 * Do your best to complete all items in order. All new information builds on earlier learning.

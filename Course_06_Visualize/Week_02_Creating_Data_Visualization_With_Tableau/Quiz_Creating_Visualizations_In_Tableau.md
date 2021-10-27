@@ -32,7 +32,7 @@ A data analyst creates a Tableau visualization to compare the trade (amount of g
 
 How could you adjust the labels to make the following visualization more effective? Select all that apply.
 
-![img](img/european.png)
+![img](img/europe.png)
 
 Each country has statistics for family, health, freedom, and generosity
 

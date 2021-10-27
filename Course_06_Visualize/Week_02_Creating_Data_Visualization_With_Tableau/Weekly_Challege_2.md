@@ -32,14 +32,14 @@ A data analyst is using the Color tool in Tableau to apply a color scheme to a d
 
 ### Question 3
 
-What could a data analyst do with the Lasso tool in Tableau?
+A data analyst is working with the World Happiness data in Tableau. What tool do they use to select the area on the map representing Finland?
 
-* **Select a data point**
-* Zoom in on a data point
-* Move a data point 
-* Pan across data points
+* **Lasso**
+* Pan
+* Radial
+* Rectangular
 
-> A data analyst could use the Lasso tool to select a data point.
+> To select the area on the map representing Finland, they use the Lasso tool.
 
 &nbsp;
 

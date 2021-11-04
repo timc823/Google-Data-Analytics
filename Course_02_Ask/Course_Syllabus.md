@@ -1,7 +1,7 @@
 # Course syllabus
 Welcome to the second course of the Google Data Analytics Certificate! In this part of the program, you will learn how data analysts use structured thinking to tackle business problems. Think of yourself as a great detective who figures out a case by tracking down the evidence and who organizes it into a powerful story to solve the mystery. You will explore how to ask effective questions and use the answers to tell a meaningful story about the data. Plus, you will learn why it is so important to be on the same page as your stakeholders when you define the problem and present the data with an analysis. 
 
-![img](../img/Syllabus_C2.png)
+![img](img/Syllabus_C2.png)
 
 1. Foundations: Data, Data, Everywhere
 2. **Ask Questions to Make Data-Driven Decisions** (this course)

@@ -1,6 +1,6 @@
 # Course syllabus
 
-![img](../img/Syllabus_C6.png)
+![img](img/Syllabus_C6.png)
 
 1. Foundations: Data, Data, Everywhere
 2. Ask Questions to Make Data-Driven Decisions

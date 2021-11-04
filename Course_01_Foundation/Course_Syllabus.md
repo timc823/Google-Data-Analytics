@@ -1,5 +1,5 @@
 # Program description and course syllabus
-![img](../img/Syllabus_C1.png)
+![img](img/Syllabus_C1.png)
 
 Hello and welcome! The program you are about to explore is specifically designed to help every type of learner successfully finish the certificate and become an entry-level junior or associate data analyst. No previous data analytics, mathematics, or statistical experience is required. To succeed, you just need to be open to learning how data influences the world. 
 
@@ -14,7 +14,7 @@ During each course of the program, you will complete lots of hands-on assignment
 &nbsp;
 
 ## Course overview
-![img](../img/Syllabus_C1_2.png)
+![img](img/Syllabus_C1_2.png)
 
 1. **Foundations: Data, Data, Everywhere** (this course)
 2. Ask Questions to Make Data-Driven Decisions

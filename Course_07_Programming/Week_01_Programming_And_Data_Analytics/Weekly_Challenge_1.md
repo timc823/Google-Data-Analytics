@@ -19,40 +19,41 @@ A data analyst uses words and symbols to give instructions to a computer. What a
 
 ### Question 2
 
-Many data analysts prefer to use a programming language for which of the following reasons? Select all that apply. 
+Question 2
+Using a programming language can help you with which aspects of data analysis? Select all that apply. 
 
-* To choose a topic for analysis 
-* **To easily reproduce and share an analysis**
-* **To clarify the steps of an analysis**
-* **To save time**
+* **Visualize your data**
+* Ask the right questions about your data 
+* **Transform your data** 
+* **Clean your data**
 
-> Many data analysts prefer to use a programming language in order to easily reproduce and share an analysis, save time, and clarify the steps of an analysis. 
+> Using a programming language can help you transform, clean, and visualize your data. 
 
 &nbsp;
 
 ### Question 3
 
-Which of the following are benefits of open-source code? Select all that apply. 
+What is the term for programming code that is freely available and may be modified and shared by the people who use it? 
 
-* **Anyone can fix bugs in the code**
-* **Anyone can create an add-on package for the code**
-* Anyone can pay a fee for access to the code
-* **Anyone can use the code for free** 
+* **Open-source**
+* Open-data 
+* Open-ended 
+* Data-centric 
 
-> The benefits of open-source code include the following: anyone can use the code for free, fix bugs in the code, and create add-on packages for the code. 
+> Open-source code is freely available and may be modified and shared by the people who use it. 
 
 &nbsp;
 
 ### Question 4
 
-Fill in the blank: The benefits of using _____ for data analysis include the ability to quickly process lots of data and create high quality visualizations.
+Which of the following are benefits of using R for data analysis? Select all that apply. 
 
-* **the R programming language**
-* a dashboard
-* a spreadsheet 
-* structured query language
+* **Process lots of data** 
+* **Reproduce and share an analysis**
+* Define a problem and ask the right questions 
+* **Create high-quality data visualizations** 
 
-> The benefits of using the R programming language for data analysis include the ability to quickly process lots of data and create high quality visualizations. 
+> The benefits of using R for data analysis include the ability to process lots of data, create high quality data visualizations, and reproduce and share an analysis. 
 
 &nbsp;
 
@@ -62,8 +63,9 @@ A data analyst needs to quickly create a series of scatterplots to visualize a v
 
 * Structured query language
 * A slide presentation 
-* A dashboard
 * **R programming language**
+* A dashboard
+
 
 > The analyst should use the R programming language to quickly create a series of scatterplots to visualize a very large dataset. R can quickly process lots of data and create high quality visualizations. 
 
@@ -71,27 +73,28 @@ A data analyst needs to quickly create a series of scatterplots to visualize a v
 
 ### Question 6
 
-RStudio’s integrated development environment lets you perform which of the following actions? Select all that apply. 
+What is a type of application that brings together all the tools a data analyst may want to use in a single place? 
 
-* **Install R packages**
-* **Create data visualizations**
-* **Import data from spreadsheets**
-* Stream online videos 
 
-> RStudio’s integrated development environment lets you install R packages, import data from spreadsheets, and create data visualizations. 
+* **Integrated development environment**
+* Database 
+* Spreadsheet
+* Dashboard 
+
+> An integrated development environment is a type of application that brings together all the tools a data analyst may want to use in a single place. RStudio is an integrated development environment.
 
 &nbsp;
 
 ### Question 7
 
-In which two parts of RStudio can you execute code? Select all that apply.
+Fill in the blank: When you execute code in the source editor, the code automatically also appears in the _____.
 
-* The environment pane
-* The plots pane 
-* **The source editor pane**
-* **The R console pane**
+**R console**
+files tab
+environment pane 
+plots tab
 
-> In RStudio, you can execute code in the R console pane and the source editor pane. 
+> When you execute code in the source editor, the code automatically also appears in the R console. 
 
 &nbsp;
 

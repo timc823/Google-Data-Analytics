@@ -17,14 +17,14 @@ Fill in the blank: Programming involves _____ a computer to perform an action or
 
 ### Question 2
 
-What are Python, JavaScript, SAS, Scala, and Julia? 
+The R programming language can be used for which of the following tasks? Select all that apply. 
 
-* Integrated development environments 
-* Databases
-* **Programming languages**
-* Web applications 
+* **Visualization**
+* **Statistical analysis**
+* Gaming
+* **Data analysis**
 
-> Python, JavaScript, SAS, Scala, and Julia are examples of programming languages. 
+> The R programming language can be used for statistical analysis, visualization, and data analysis.
 
 &nbsp;
 

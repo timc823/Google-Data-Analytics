@@ -89,10 +89,10 @@ What is a type of application that brings together all the tools a data analyst 
 
 Fill in the blank: When you execute code in the source editor, the code automatically also appears in the _____.
 
-**R console**
-files tab
-environment pane 
-plots tab
+* **R console**
+* files tab
+* environment pane 
+* plots tab
 
 > When you execute code in the source editor, the code automatically also appears in the R console. 
 

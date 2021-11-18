@@ -34,3 +34,31 @@ Which of the following items can you create with the geom_point() function?
 * Line diagram 
 
 > You can create a scatterplot with the geom_point() function.
+
+&nbsp;
+
+### Video: Annotation layer
+
+What do the label and annotate functions do?
+
+* Display subsets of your data 
+* Choose a geom  
+* Load a dataset  
+* **Customize the look and feel of your plots**
+
+> The label and annotate functions customize the look and feel of your plots.
+
+&nbsp;
+
+### Video: Saving your visualizations
+
+Where in RStudio can you find the export menu for saving plots?
+
+* The R console pane
+* The environment pane 
+* The source editor pane 
+* **The plots tab** 
+
+> In RStudio, you can find the export menu for saving plots in the plots tab. 
+
+

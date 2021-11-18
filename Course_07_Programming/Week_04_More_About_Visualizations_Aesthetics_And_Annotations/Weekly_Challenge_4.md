@@ -52,14 +52,15 @@ Which of the following represents a variable in the code chunk? Select all that 
 
 ### Question 4
 
-A data analyst uses the aes() function to define the connection between their data and the plots in their visualization. What argument is used to refer to matching up a specific variable in your data set with a specific aesthetic?
+In ggplot2, which of the following aesthetic attributes can you use to map variables to points? Select all that apply. 
 
-* Faceting 
-* **Mapping** 
-* Jittering
-* Annotating 
+**Size**
+**Color**
+Facet
+**Shape**
 
-> Mapping is an argument that matches up a specific variable in your data set with a specific aesthetic. You use the aes() function to define the mapping between your data and your plot. 
+
+> In ggplot2, color, shape, and size are aesthetic attributes you can use to map variables to points. Color refers to the color of the points on your plot, shape to the shape of the points, and size to the size of the points. 
 
 &nbsp;
 
@@ -85,78 +86,106 @@ What does the alpha aesthetic do to the appearance of the points on the plot?
 
 ### Question 6
 
-You are working with the penguins dataset. You create a scatterplot with the following code chunk: 
-
+You are working with the penguins dataset. You create a scatterplot with the following code: 
 ```
-ggplot(data = penguins) + 
-    geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+ggplot(data = penguins) +
+
+  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
 ```
+You want to highlight the different penguin species on your plot. Add a code chunk to the second line of code to map the aesthetic shape to the variable species.
 
-How do you change the second line of code to map the aesthetic size to the variable species? 
+`geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, ...))` 
 
-* `geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, species = size)`
-* **`geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, size = species))`**
-* `geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, species + size)`
-* `geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, size + species))`
+NOTE: the three dots (...) indicate where to add the code chunk.
 
-> You change the second line of code to `geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, size = species))` to map the aesthetic size to the variable species. Inside the parentheses of the aes() function, add a comma after y = body_mass_g to add a new aesthetic attribute, then write size = species to map the aesthetic size to the variable species. The data points for each of the three penguin species will now appear in different sizes. 
+` ... = shape = species`
+
+Which penguin species does your visualization display?
+
+* Adelie, Chinstrap, Emperor
+* Adelie, Gentoo, Macaroni 
+* **Adelie, Chinstrap, Gentoo**
+* Emperor, Chinstrap, Gentoo
+
+> You add the code chunk shape = species to the second line of code to map the aesthetic shape to the variable species. The correct code is ggplot(data = penguins) + geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g, shape = species)). Inside the parentheses of the aes() function, after the comma that follows  y = body_mass_g, write the aesthetic (shape), then an equals sign, then the variable (species). The data points for each penguin species now appear in different shapes. 
+
+> Your visualization displays the Adelie, Chinstrap, and Gentoo penguin species.
 
 &nbsp;
 
 ### Question 7
 
-Fill in the blank: The _____  creates a scatterplot and then adds a small amount of random noise to each point in the plot to make the points easier to find.
+A data analyst creates a plot with the following code chunk: 
+```
+ggplot(data = penguins) + 
+  geom_jitter(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+```
+What does the geom_jitter() function do to the points in the plot?
 
-* geom_bar() function
-* **geom_jitter() function**
-* geom_smooth() function 
-* geom_point() function
+* Decrease the size of each point in the plot 
+* Adds random colors to each point in the plot 
+* **Adds a small amount of random noise to each point in the plot** 
+* Adds a small amount of random shapes at each point in the plot
 
-> The `geom_jitter()` function creates a scatterplot and then adds a small amount of random noise to each point in the plot to make the points easier to find.
+> The geom_jitter() function creates a scatterplot and then adds a small amount of random noise to each point in the plot to make the points easier to find.
 
 &nbsp;
 
 ### Question 8
 
-You have created a plot based on data in the diamonds dataset. What code chunk can be added to your existing plot to create wrap around facets based on the variable *color*? 
+You are working with the diamonds dataset. You create a bar chart with the following code:
+```
+ggplot(data = diamonds) +
 
-* **`facet_wrap(~color)`**
-* `facet_wrap(color)`
-* `facet_wrap(color~)`
-* `facet(~color)`
+  geom_bar(mapping = aes(x = color, fill = cut)) +
+```
 
-> The code chunk is `facet_wrap(~color)`. Inside the parentheses of the facet_wrap() function, type a tilde symbol (~) followed by the name of the variable you want to facet. 
+You want to use the facet_wrap() function to display subsets of your data. Add the code chunk that lets you facet your plot based on the variable color. 
+
+`facet_wrap(~color)`
+
+How many subplots does your visualization show?
+
+* 9
+* 6
+* 8
+* **7**
+
+
+> You add the code chunk **`facet_wrap(~color)`** to facet your plot based on the variable color. The correct code is **`ggplot(data = diamonds) + geom_bar(mapping = aes(x = color, fill = cut)) + facet_wrap(~color)`**. Inside the parentheses of the facet_wrap() function, write a tilde symbol (~) followed by the name of the variable you want to facet. The facet_wrap() function lets you display subsets of your data.
+
+> Your visualization shows 7 subplots. 
 
 &nbsp;
 
 ### Question 9
 
-A data analyst uses the annotate() function to create a text label for a plot. Which attributes of the text can the analyst change by adding code to the argument of the annotate() function? Select all that apply.
+A data analyst creates a scatterplot. The analyst wants to put a text label on the plot to call out specific data points. What function does the analyst use?
 
-* **Change the size of the text**
-* **Change the font style of the text**
-* **Change the color of the text**
-* Change the text into a title for the plot 
+* The ggplot() function 
+* **The annotate() function** 
+* The geom_smooth() function 
+* The facet_grid() function 
 
-> By adding code to the argument of the annotate() function, the analyst can change the font style, color, and size of the text. 
+> The analyst uses the annotate() function. The annotate() function can put a text label on a plot to call out specific data points. 
 
 
 &nbsp;
 
 ### Question 10
 
-You are working with the penguins dataset. You create a scatterplot with the following lines of code:
-
+You are working with the penguins dataset. You create a scatterplot with the following lines of code: 
 ```
 ggplot(data = penguins) + 
-    geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g)) + 
+
+  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g)) + 
 ```
 
-What code chunk do you add to the third line to save your plot as a jpeg file with "penguins" as the file name?
+What code chunk do you add to the third line to save your plot as a pdf file with “penguins” as the file name? 
 
-* `ggsave(penguins)`
-* `ggsave("penguins.jpeg")`
-* `ggsave(penguins.jpeg)`
-* `ggsave("jpeg.penguins")`
+* ggsave(penguins.pdf)
+* ggsave(“pdf.penguins”)
+* ggsave(=penguins)
+* **ggsave(“penguins.pdf”)**
 
-> You add the code chunk `ggsave("penguins.jpeg")` to save your plot as a jpeg file with "penguins" as the file name. Inside the parentheses of the ggsave() function, type a quotation mark followed by the file name (penguins), then a period, then the type of file (jpeg), then a closing quotation mark. 
+> You add the code chunk **`ggsave(“penguins.pdf”)`** to save your plot as a pdf file with “penguins” as the file name. Inside the parentheses of the ggsave() function, type a quotation mark followed by the file name (penguins), then a period, then the type of file (pdf), then a closing quotation mark. 

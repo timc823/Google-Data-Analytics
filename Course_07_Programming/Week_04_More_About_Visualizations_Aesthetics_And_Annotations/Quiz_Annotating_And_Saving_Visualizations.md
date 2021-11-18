@@ -41,24 +41,25 @@ What function can you use to put a text label inside the grid of your plot to ca
 
 ### Question 4
 
-A data analyst wants to add the title “Penguins” to a plot that visualizes the penguins dataset. What is the correct syntax for the argument of the labs() function? 
+You are working with the penguins dataset. You create a scatterplot with the following code:
 
-* `labs(title <- “Penguins”))`
-* **`labs(title = “Penguins”)`**
-* `labs("Penguins")`
-* `labs("Penguins" = title)`
+```
+ggplot(data = penguins) + 
 
-> The code labs(title = “Penguins”) uses the correct syntax for the argument of the labs() function. In the parentheses of the labs() function, write the word title, then an equals sign, then the specific text of the title in quotation marks. 
+geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g)) +
+```
 
-&nbsp;
+You want to use the labs() function to add the title “Penguins” to your plot. Add the code chunk that lets you add the title "Penguins" to your plot.
 
-### Question 5
+**`labs(title = “Penguins”)`**
 
-Which of the following functions can you use to save your plots in ggplot2?
+Where does your visualization display the title?
 
-* **The ggsave() function**
-* The ggplot() function
-* The saveplot() function 
-* The ggplotsave() function
+* The lower right
+* **The upper left**
+* The lower left
+* The upper right
 
-> You can use the ggsave() function to save your plots in ggplot2. 
+> You add the code chunk labs(title = “Penguins”) to add the title "Penguins" to your plot. Inside the parentheses of the labs() function, write the word title, then an equals sign, then the specific text of the title in quotation marks. The labs() function lets you add labels to your plot. 
+
+> Your visualization displays the title in the upper left. 

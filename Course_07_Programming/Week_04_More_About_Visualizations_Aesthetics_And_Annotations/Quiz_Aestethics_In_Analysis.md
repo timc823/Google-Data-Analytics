@@ -30,17 +30,6 @@ Which of the following functions let you display smaller groups, or subsets, of 
 
 ### Question 3
 
-You can use the color aesthetic to add color to the outline of each bar in a bar chart. 
-
-* **True** 
-* False 
-
-> You can use the color aesthetic to add color to the outline of each bar in a bar chart. 
-
-&nbsp;
-
-### Question 4
-
 What is the role of the x argument in the following code?
 
 ```
@@ -57,7 +46,7 @@ ggplot(data = diamonds) +
 
 &nbsp;
 
-### Question 5
+### Question 4
 
 A data analyst creates a scatterplot with a lot of data points. It is difficult for the analyst to distinguish the individual points on the plot because they overlap. What function could the analyst use to make the points easier to find? 
 
